@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = TweeterClient::VERSION
   spec.authors       = ["Jeff Casimir"]
   spec.email         = ["jeff@casimircreative.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Example API Wrapper"
+  spec.description   = "Example API Wrapper"
   spec.homepage      = ""
   spec.license       = "MIT"
 
